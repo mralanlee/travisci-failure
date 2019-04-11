@@ -22,6 +22,7 @@ github.com/hajimehoshi/oto v0.3.1 h1:cpf/uIv4Q0oc5uf9loQn7PIehv+mZerh+0KKma6gzMk
 github.com/hajimehoshi/oto v0.3.1/go.mod h1:e9eTLBB9iZto045HLbzfHJIc+jP3xaKrjZTghvb6fdM=
 github.com/jfreymuth/oggvorbis v1.0.0/go.mod h1:abe6F9QRjuU9l+2jek3gj46lu40N4qlYxh2grqkLEDM=
 github.com/jfreymuth/vorbis v1.0.0/go.mod h1:8zy3lUAm9K/rJJk223RKy6vjCZTWC61NA2QD06bfOE0=
+github.com/jmespath/go-jmespath v0.0.0-20180206201540-c2b33e8439af h1:pmfjZENx5imkbgOkpRUYLnmbU7UEFbjtDA2hxJ1ichM=
 github.com/jmespath/go-jmespath v0.0.0-20180206201540-c2b33e8439af/go.mod h1:Nht3zPeWKUH0NzdCt2Blrr5ys8VGpn0CEB0cQHVjt7k=
 github.com/lucasb-eyer/go-colorful v0.0.0-20181028223441-12d3b2882a08/go.mod h1:NXg0ArsFk0Y01623LgUqoqcouGDB+PwCCQlrwrG6xJ4=
 github.com/mattn/go-colorable v0.1.1/go.mod h1:FuOcm+DKB9mbwrcAfNl7/TZVBZ6rcnceauSikq3lYCQ=
